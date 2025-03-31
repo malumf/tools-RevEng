@@ -10,6 +10,7 @@ A curated list of awesome malware analysis tools and resources. Inspired by
     - [Anonymizers](#anonymizers)
     - [Honeypots](#honeypots)
     - [Malware Corpora](#malware-corpora)
+    - [Malware Execution Traces](#malware-execution-traces)
 - [Open Source Threat Intelligence](#open-source-threat-intelligence)
     - [Tools](#tools)
     - [Other Resources](#other-resources)
@@ -106,6 +107,13 @@ View Chinese translation: [恶意软件分析大合集.md](恶意软件分析大
 * [Zeus Source Code](https://github.com/Visgean/Zeus) - Source for the Zeus
   trojan leaked in 2011.
 * [VX Underground](http://vx-underground.org/) - Massive and growing collection of free malware samples.
+
+
+### Malware Execution Traces
+*Malware execution traces for analysis and research.*
+
+* [WinMET](https://doi.org/10.5281/zenodo.12647555) - Windows Malware
+  Execution Traces (WinMET) dataset.
 
 ## Open Source Threat Intelligence
 
