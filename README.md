@@ -780,6 +780,10 @@ the [browser malware](#browser-malware) section.*
 
 * [al-khaser](https://github.com/LordNoteworthy/al-khaser) - A PoC malware
   with good intentions that aimes to stress anti-malware systems.
+* [CORTEX](https://github.com/fatcrapinmybutt/cortex-osint) - Offline desktop
+  intelligence platform that scans local files, builds interactive D3.js knowledge
+  graphs, and supports 55+ domain packs including malware analysis, threat intel,
+  and cyber forensics.
 * [CryptoKnight](https://github.com/AbertayMachineLearningGroup/CryptoKnight) - Automated cryptographic algorithm reverse engineering and classification framework.
 * [DC3-MWCP](https://github.com/Defense-Cyber-Crime-Center/DC3-MWCP) -
   The Defense Cyber Crime Center's Malware Configuration Parser framework.
