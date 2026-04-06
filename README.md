@@ -32,6 +32,7 @@ A curated list of awesome malware analysis tools and resources. Inspired by
 - [Related Awesome Lists](#related-awesome-lists)
 - [Contributing](#contributing)
 - [Thanks](#thanks)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including automated security analysis, threat detection, and OSINT investigation agents. MIT licensed.
 
 View Chinese translation: [恶意软件分析大合集.md](恶意软件分析大合集.md).
 
