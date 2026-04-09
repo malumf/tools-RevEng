@@ -117,6 +117,10 @@ View Chinese translation: [恶意软件分析大合集.md](恶意软件分析大
   framework for receiving and redistributing abuse feeds and threat intel.
 * [AlienVault Open Threat Exchange](https://otx.alienvault.com/) - Share and
   collaborate in developing Threat Intelligence.
+* [CyberBriefing](https://cyberbriefing.info) - Threat intelligence API providing
+  search across 2.7M+ historical cybersecurity articles (2007–2023), IOC lookup
+  (62K+ indicators including IPs, domains, hashes), CVE context, threat actor
+  profiles, and AI-generated briefings. Free tier available.
 * [Combine](https://github.com/mlsecproject/combine) - Tool to gather Threat
   Intelligence indicators from publicly available sources.
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
