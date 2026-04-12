@@ -238,6 +238,10 @@ View Chinese translation: [恶意软件分析大合集.md](恶意软件分析大
 * [fn2yara](https://github.com/cmu-sei/pharos) - FN2Yara is a tool to generate
   Yara signatures for matching functions (code) in an executable program.
 * [Generic File Parser](https://github.com/uppusaikiran/generic-parser) - A Single Library Parser to extract meta information,static analysis and detect macros within the files.
+* [NullSec LogReaper](https://github.com/bad-antics/nullsec-logreaper) - DFIR
+  log analysis and threat detection tool with automated IOC extraction, pattern
+  matching, and timeline reconstruction across syslog, auth, Windows Event,
+  and cloud audit logs.
 * [hashdeep](https://github.com/jessek/hashdeep) - Compute digest hashes with
   a variety of algorithms.
 * [HashCheck](https://github.com/gurnec/HashCheck) - Windows shell extension
@@ -796,6 +800,9 @@ the [browser malware](#browser-malware) section.*
 * [REMnux](https://remnux.org/) - Linux distribution and docker images for
   malware reverse engineering and analysis.
 * [Tsurugi Linux](https://tsurugi-linux.org/) - Linux distribution designed to support your DFIR investigations, malware analysis and OSINT (Open Source INTelligence) activities.
+* [NullSec Linux](https://github.com/bad-antics/nullsec-linux) - Security-focused
+  Linux distribution for penetration testing and DFIR, with pre-configured
+  offensive and defensive tooling and hardened defaults.
 * [Santoku Linux](https://santoku-linux.com/) - Linux distribution for mobile
   forensics, malware analysis, and security.
 
