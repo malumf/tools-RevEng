@@ -245,6 +245,10 @@ View Chinese translation: [恶意软件分析大合集.md](恶意软件分析大
 * [Loki](https://github.com/Neo23x0/Loki) - Host based scanner for IOCs.
 * [Malfunction](https://github.com/Dynetics/Malfunction) - Catalog and
   compare malware at a function level.
+* [malware-check](https://github.com/momenbasel/malware-check) - Enterprise-grade
+  static and dynamic analysis tool for detecting malicious code, suspicious
+  binaries, and privacy violations with YARA rules, Docker sandboxing, and
+  SARIF reporting.
 * [Manalyze](https://github.com/JusticeRage/Manalyze) - Static analyzer for PE
 executables.
 * [MASTIFF](https://github.com/KoreLogicSecurity/mastiff) - Static analysis
