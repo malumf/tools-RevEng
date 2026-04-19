@@ -1,4 +1,4 @@
-# Awesome Malware Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Malware Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome malware analysis tools and resources. Inspired by
 [awesome-python](https://github.com/vinta/awesome-python) and
@@ -33,7 +33,7 @@ A curated list of awesome malware analysis tools and resources. Inspired by
 - [Contributing](#contributing)
 - [Thanks](#thanks)
 
-View Chinese translation: [恶意软件分析大合集.md](恶意软件分析大合集.md).
+View Chinese translation: [æ¶æ„è½¯ä»¶åˆ†æžå¤§åˆé›†.md](æ¶æ„è½¯ä»¶åˆ†æžå¤§åˆé›†.md).
 
 ---
 
@@ -550,10 +550,10 @@ the [browser malware](#browser-malware) section.*
   binary analysis and reversing, with support for many architectures and
   bindings in several languages.
 * [codebro](https://github.com/hugsy/codebro) - Web based code browser using
-  clang to provide basic code analysis.
+ Â clang to provide basic code analysis.
 * [Cutter](https://github.com/radareorg/cutter) - GUI for Radare2.
 * [DECAF (Dynamic Executable Code Analysis Framework)](https://github.com/sycurelab/DECAF)
-  - A binary analysis platform based   on QEMU. DroidScope is now an extension to DECAF.
+  -Â A binary analysis platform based Â  on QEMU. DroidScope is now an extension to DECAF.
 * [dnSpy](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler
   and debugger.
 * [dotPeek](https://www.jetbrains.com/decompiler/) - Free .NET Decompiler and
@@ -568,6 +568,7 @@ the [browser malware](#browser-malware) section.*
 * [GEF](https://github.com/hugsy/gef) - GDB Enhanced Features, for exploiters
   and reverse engineers.
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - A software reverse engineering (SRE) framework created and       maintained by the National Security Agency Research Directorate.
+* [gspy](https://github.com/Mutasem-mk4/gspy) - Forensic eBPF-driven goroutine-to-syscall inspector for live Golang malware analysis.
 * [hackers-grep](https://github.com/codypierce/hackers-grep) - A utility to
   search for strings in PE executables including imports, exports, and debug
   symbols.
